@@ -2,6 +2,7 @@
 
 ## 基本情况
 ![](https://github.com/ly4572615/Blog/blob/master/123.jpg)
+
 <table>
 	<tr><td>姓名：李炀</td><td>性别：男</td></tr>
 	<tr><td>出生年月：1989年01月</td><td>民族：汉族</td></tr>
